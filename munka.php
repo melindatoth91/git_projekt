@@ -45,4 +45,9 @@ print ($egyik / $masik) . "<br/><br/>" ;
 
 
 // Itt a vége. :-)
+
+// Saját gépen frissitve. :-)
+
+
+
 ?>
