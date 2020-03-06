@@ -17,13 +17,13 @@ Webtanár: https://webtanar.hu/
 
 Ebben a sorban beillesztett `<b>kódrészlet</b>` van.
 
-
+###PHP kód:
 ```php
 $a = 23;
 $b = 11;
 echo $a + $b;
 ```
-
+###Javascript kód:
 ```javascript
 var p = 23;
 alert("hahaha");
