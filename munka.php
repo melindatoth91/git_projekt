@@ -6,10 +6,10 @@
 // Összeadás
 //-----------
 
-$a = 150;
-$b = 15;
-$c = 12;
-$d = 34;
+$a = 105;
+$b = 17;
+$c = 120;
+$d = 36;
 
 print $a + $b + $c + $d;
 
@@ -24,6 +24,7 @@ $z = 370;
 
 print "<br/><br/>" . $z - $y - $x . "<br/><br/>";
 
+//A GitHub-on szerkesztettem
 
 //Szorzás
 //---------
