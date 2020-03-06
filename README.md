@@ -15,4 +15,12 @@ Webtanár: https://webtanar.hu/
 
 [Webtanár weblapja](https://webtanar.hu/)
 
+Ebben a sorban beillesztett `<b>kódrészlet</b>` van.
+
+
+```
+$a = 23;
+$b = 11;
+echo $a + $b;
+```
 
