@@ -13,6 +13,8 @@ $d = 36;
 
 print $a + $b + $c + $d;
 
+//A GitHub-on szerkesztettem
+
 print $b + $d;
 
 //Kivonás
@@ -23,9 +25,8 @@ $x = 15;
 $y = 59;
 $z = 370;
 $p = 420;
-print "<br/><br/>" . $z - $y - $x - $p . "<br/><br/>"; // erre is büszke vagyok! :-)
 
-//A GitHub-on szerkesztettem
+print "<br/><br/>" . $z - $y - $x - $p . "<br/><br/>"; // erre is büszke vagyok! :-)
 
 //Szorzás
 //---------
