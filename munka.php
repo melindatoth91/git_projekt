@@ -48,6 +48,6 @@ print ($egyik / $masik) . "<br/><br/>" ;
 
 // Saját gépen frissitve. :-)
 
-
+// A kód ezzel a sorral bővült.
 
 ?>
