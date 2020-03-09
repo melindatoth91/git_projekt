@@ -21,8 +21,8 @@ print $a + $b + $c + $d;
 $x = 15;
 $y = 59;
 $z = 370;
-
-print "<br/><br/>" . $z - $y - $x . "<br/><br/>";
+$p = 420;
+print "<br/><br/>" . $z - $y - $x - $p "<br/><br/>"; // erre is büszke vagyok! :-)
 
 //A GitHub-on szerkesztettem
 
